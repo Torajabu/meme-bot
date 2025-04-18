@@ -1,2 +1,2 @@
 
-![memebot](/blob/main/Screenshot from 2025-04-15 16-41-20.png)
+![memebot](https://github.com/Torajabu/meme-bot/blob/main/Screenshot%20from%202025-04-15%2016-41-20.png)
