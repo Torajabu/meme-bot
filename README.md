@@ -1,2 +1,2 @@
 
-[![/blob/main/Screenshot from 2025-04-15 16-41-20.png](https://img.shields.io/github/stars/Torajabu/meme-bot?style=social)]
+[![memebot](/blob/main/Screenshot from 2025-04-15 16-41-20.png)]
